@@ -1,0 +1,11 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+seaborn==0.12.1
+scikit-learn==1.2.2
+xgboost==1.7.4
+geopy==2.3.0
+scipy==1.9.3
+statistics  # No version needed; it's part of Python's standard library
+requests==2.28.2
+streamlit==1.16.0
